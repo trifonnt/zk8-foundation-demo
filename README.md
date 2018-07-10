@@ -11,3 +11,11 @@ ZK 8 Series: A demo for ZK responsive web design demo
 * Demo Code - [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 * Foundation Framework - [MIT](http://foundation.zurb.com)
 * jQuery-ripple Library - [MIT](https://github.com/adamsea/jquery-ripple)
+
+
+### How to start the application
+./mvnw jetty:run
+
+
+### Links
+ http://localhost:8080/zk8-foundation-demo/
